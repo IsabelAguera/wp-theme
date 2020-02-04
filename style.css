@@ -44,3 +44,12 @@ h3 {
 background-position-x: right !important;
 background-size: auto !important;
 }
+
+.map_content {
+	display: flex;
+	flex-direction: column;
+}
+
+.map_nav {
+	background-color: white;
+}
