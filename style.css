@@ -1,0 +1,46 @@
+/*
+Theme Name: salt-child
+Theme URI: http://loquesea.es
+Version: 4.0
+Description: Tema hijo de A theme
+Author: Tu
+Author URI: http://loquesea.es
+Template: salt
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Rajdhani&display=swap');
+
+
+body{
+
+	font-family: Rajdhani;
+}
+
+.bx-wrapper .bx-pager {
+	
+	font-family: Rajdhani;
+}
+.bx-wrapper .bx-caption span {
+	
+	font-family: Rajdhani;
+}
+.menu li a {
+
+	font-family: Rajdhani;
+	font-size: 23px;
+	font-weight: bold;
+}
+.bxslider .slide .copy-container p {
+
+	font-family: Rajdhani;
+}
+
+h3 {
+
+	font-family: Rajdhani;
+}
+
+#header {
+background-position-x: right !important;
+background-size: auto !important;
+}
